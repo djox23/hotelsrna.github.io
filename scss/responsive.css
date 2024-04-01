@@ -1,0 +1,28 @@
+@media screen and (max-width: 1000px) {
+  .pad {
+    padding-bottom: 20px;
+  }
+  .soba {
+    padding-bottom: 20px;
+  }
+}
+@media screen and (max-width: 988px) {
+  #carousel {
+    display: none;
+  }
+}
+@media screen and (max-width: 700px) {
+  .lok {
+    display: none;
+  }
+}
+@media screen and (max-width: 770px) {
+  .slikaa img {
+    height: 450px;
+  }
+}
+@media screen and (max-widtH: 450px) {
+  .slikaa {
+    display: none;
+  }
+}/*# sourceMappingURL=responsive.css.map */
