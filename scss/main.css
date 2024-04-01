@@ -23,7 +23,6 @@
 body {
   width: 100%;
   height: 100%;
-  background-color: aqua;
 }
 
 .mk-block-2 {
@@ -75,4 +74,35 @@ body {
 
 .testimonial-card {
   background-color: #e0e0e0;
+}
+
+.soba {
+  border-radius: 50px 10px 50px 10px;
+}
+
+.ponuda0 {
+  transition: all 0.3s;
+}
+
+.ponuda0:hover {
+  transform: translateY(-8px);
+  box-shadow: 6px 6px 1px #2C3E50;
+}
+
+.ocena {
+  transition: all 0.3s;
+}
+
+.ocena:hover {
+  transform: translateY(-8px);
+  box-shadow: 6px 6px 1px #e0e0e0;
+}
+
+.dugme {
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.dugme:hover {
+  background-color: #212529;
+  color: #e0e0e0;
 }/*# sourceMappingURL=main.css.map */
